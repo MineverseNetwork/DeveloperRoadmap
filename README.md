@@ -1,5 +1,5 @@
-# Developer Roadmap [ 25.6.2023 ]
-This is where you can see what are we currently working on.
+# Developer Roadmap [ 29.6.2023 ]
+This is where you can see what are we currently working on and what is done so far.
 
 ## Minecraft
 
@@ -13,6 +13,7 @@ MV-Lib
 - Integration with LuckPerms & rank sync [ 100% ]
 - Better system for server status [ 90% ] - rewrite soon
 - Maintenance & Debug mode [ 100% ]
+- Logger & Verbose system [ 100% ]
 
 MV-Bungee
 - Basic utilities [ 75% ]
@@ -39,7 +40,8 @@ Panel
 - User management [ 80% ]
 - Servers overview [ 95% ]
 
-Main Webiste - [ 0% ]
+Main Webiste
+- Index page [ 10% ]
 
 
 ## Discord
