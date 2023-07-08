@@ -1,4 +1,4 @@
-# Developer Roadmap [ 29.6.2023 ]
+# Developer Roadmap [ 9.7.2023 ]
 This is where you can see what are we currently working on and what is done so far.
 
 ## Minecraft
@@ -8,12 +8,13 @@ MV-Lib
 - Redis manager & channels [ 100% ]
 - Player wrapper & manager [ 95% ]
 - Basic economy foundation [ 40% ]
-- Better GUI system [ 75% ] 
+- Better GUI system [ 80% ] 
 - Better Command system [ 100% ]
 - Integration with LuckPerms & rank sync [ 100% ]
-- Better system for server status [ 90% ] - rewrite soon
+- Better system for server status [ 95% ]
 - Maintenance & Debug mode [ 100% ]
 - Logger & Verbose system [ 100% ]
+- Rank & Permissions system [ 20% ]
 
 MV-Bungee
 - Basic utilities [ 75% ]
@@ -24,7 +25,7 @@ MV-Bungee
 MV-Lobby
 - World protection [ 100% ]
 - Servers selector [ 95% ]
-- NPCs [ 15% ]
+- Armor stands [ 0% ]
 
 MV-Survival - rewrite soon
 - Custom items [ 20% ]
