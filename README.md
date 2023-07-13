@@ -57,3 +57,15 @@ Bot
 - StaffChat sync with mc [ 100% ]
 - Verify & account sync [ 15% ]
 - Ticket system [ 5% ]
+
+# Lines of code
+
+| Plugin | Lines | Files | Updated |
+| ------- | ------- | --------- | ---------------- |
+| MV-Lib | 2200 | 37 | 7.7.2023 |
+| MV-Bungee | 450 | 9 | 5.6.2023 |
+| MV-Lobby | 300 | 6 | 5.6.2023 |
+| MV-Essentials | 1200 | 17 | 13.7.2023 |
+| MV-Survival | 700 | 16 | 5.6.2023 |
+
+Total: 4850 lines, 85 files (13.7.2023)
