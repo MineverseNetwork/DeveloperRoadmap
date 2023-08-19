@@ -1,4 +1,4 @@
-# Developer Roadmap [ 13.7.2023 ]
+# Developer Roadmap [ 20.8.2023 ]
 This is where you can see what are we currently working on and what is done so far.
 
 ## Minecraft
@@ -10,11 +10,10 @@ MV-Lib
 - Basic economy foundation [ 40% ]
 - Better GUI system [ 80% ] 
 - Better Command system [ 100% ]
-- Integration with LuckPerms & rank sync [ 100% ] - Will be replaced with custom system soon
+- Ranks, Permissions and Prefixes [ 80% ]
 - Better system for server status [ 95% ]
 - Maintenance & Debug mode [ 100% ]
 - Logger & Verbose system [ 100% ]
-- Rank & Permissions system [ 25% ]
 
 MV-Bungee
 - Basic utilities [ 75% ]
@@ -24,7 +23,7 @@ MV-Bungee
 
 MV-Lobby
 - World protection [ 100% ]
-- Servers selector [ 95% ]
+- Servers selector [ 100% ]
 - Armor stands [ 0% ]
 
 MV-Essentials
@@ -62,10 +61,10 @@ Bot
 
 | Plugin | Lines | Files | Updated |
 | ------- | ------- | --------- | ---------------- |
-| MV-Lib | 2200 | 37 | 7.7.2023 |
+| MV-Lib | 2550 | 41 | 20.8.2023 |
 | MV-Bungee | 450 | 9 | 5.6.2023 |
 | MV-Lobby | 300 | 6 | 5.6.2023 |
 | MV-Essentials | 1200 | 17 | 13.7.2023 |
 | MV-Survival | 700 | 16 | 5.6.2023 |
 
-Total: 4850 lines, 85 files (13.7.2023)
+Total: 5200 lines, 89 files (20.8.2023)
