@@ -61,10 +61,10 @@ Bot
 
 | Plugin | Lines | Files | Updated |
 | ------- | ------- | --------- | ---------------- |
-| MV-Lib | 2550 | 41 | 20.8.2023 |
+| MV-Lib | 2800 | 44 | 26.8.2023 |
 | MV-Bungee | 450 | 9 | 5.6.2023 |
 | MV-Lobby | 300 | 6 | 5.6.2023 |
 | MV-Essentials | 1200 | 17 | 13.7.2023 |
 | MV-Survival | 700 | 16 | 5.6.2023 |
 
-Total: 5200 lines, 89 files (20.8.2023)
+Total: 5450 lines, 92 files (26.8.2023)
