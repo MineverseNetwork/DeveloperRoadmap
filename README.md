@@ -28,7 +28,7 @@ MV-Lobby
 - Armor stands [ 0% ]
 
 MV-Essentials
-- Number of commands: 18
+- Number of commands: 19
 
 MV-Survival - rewrite soon
 - Custom items [ 20% ]
@@ -66,7 +66,7 @@ Bot
 | MV-Lib | 2800 | 44 | 26.8.2023 |
 | MV-Bungee | 450 | 9 | 5.6.2023 |
 | MV-Lobby | 300 | 6 | 5.6.2023 |
-| MV-Essentials | 1700 | 27 | 3.9.2023 |
+| MV-Essentials | 1800 | 28 | 3.9.2023 |
 | MV-Survival | 700 | 16 | 5.6.2023 |
 
-Total: 5950 lines, 102 files (3.9.2023)
+Total: 6050 lines, 103 files (3.9.2023)
