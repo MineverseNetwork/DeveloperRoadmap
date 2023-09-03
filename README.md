@@ -10,10 +10,11 @@ MV-Lib
 - Basic economy foundation [ 40% ]
 - Better GUI system [ 80% ] 
 - Better Command system [ 100% ]
-- Ranks, Permissions and Prefixes [ 80% ]
+- Ranks, Permissions and Prefixes [ 85% ]
 - Better system for server status [ 95% ]
 - Maintenance & Debug mode [ 100% ]
 - Logger & Verbose system [ 100% ]
+- Command blocker [ 100% ]
 
 MV-Bungee
 - Basic utilities [ 75% ]
@@ -27,7 +28,7 @@ MV-Lobby
 - Armor stands [ 0% ]
 
 MV-Essentials
-- Number of commands: 14
+- Number of commands: 18
 
 MV-Survival - rewrite soon
 - Custom items [ 20% ]
@@ -56,6 +57,7 @@ Bot
 - StaffChat sync with mc [ 100% ]
 - Verify & account sync [ 15% ]
 - Ticket system [ 5% ]
+- Integration with MV-Lib's Logger [ 95% ]
 
 # Lines of code
 
@@ -64,7 +66,7 @@ Bot
 | MV-Lib | 2800 | 44 | 26.8.2023 |
 | MV-Bungee | 450 | 9 | 5.6.2023 |
 | MV-Lobby | 300 | 6 | 5.6.2023 |
-| MV-Essentials | 1200 | 17 | 13.7.2023 |
+| MV-Essentials | 1700 | 27 | 3.9.2023 |
 | MV-Survival | 700 | 16 | 5.6.2023 |
 
-Total: 5450 lines, 92 files (26.8.2023)
+Total: 5950 lines, 102 files (3.9.2023)
