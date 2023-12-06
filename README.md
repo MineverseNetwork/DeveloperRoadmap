@@ -3,6 +3,10 @@ This is where you can see what are we currently working on and what is done so f
 
 ## Minecraft
 
+### Current Status:
+
+Migrating all the plugins to Kotlin. Huge refactoring of MV-Lib to make a more flexible and maintenable core. Switching from Waterfall to Velocity.
+
 MV-Lib
 - Web API wrapper & utils [ 100% ]
 - Redis manager & channels [ 100% ]
