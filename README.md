@@ -1,4 +1,4 @@
-# Developer Roadmap [ 5.10.2023 ]
+# Developer Roadmap [ 1.1.2024 ]
 This is where you can see what are we currently working on and what is done so far.
 
 ## Minecraft
@@ -10,18 +10,18 @@ Migrating all the plugins to Kotlin. Huge refactoring of MV-Lib to make a more f
 MV-Lib
 - Web API wrapper & utils [ 100% ]
 - Redis manager & channels [ 100% ]
-- Player wrapper & manager [ 95% ]
+- Player wrapper & manager [ 100% ]
 - Basic economy foundation [ 40% ]
-- Better GUI system [ 80% ] 
+- Better GUI system [ 90% ] 
 - Better Command system [ 100% ]
-- Ranks, Permissions and Prefixes [ 85% ]
-- Better system for server status [ 95% ]
+- Ranks, Permissions and Prefixes [ 90% ]
+- Better system for server status [ 100% ]
 - Maintenance & Debug mode [ 100% ]
 - Logger & Verbose system [ 100% ]
 - Command blocker [ 100% ]
 
-MV-Bungee
-- Basic utilities [ 80% ]
+MV-Velocity
+- Basic utilities [ 85% ]
 - Lobby system & Player balancing [ 100% ]
 - StaffChat [ 100% ]
 - MOTD [ 100% ]
@@ -68,11 +68,11 @@ Bot
 
 | Plugin | Lines | Files | Updated |
 | ------- | ------- | --------- | ---------------- |
-| MV-Lib | 2 850 | 44 | 5.10.2023 |
-| MV-Bungee | 600 | 11 | 5.10.2023 |
-| MV-Lobby | 300 | 6 | 5.10.2023 |
-| MV-Essentials | 1 800 | 28 | 5.10.2023 |
-| MV-Survival | 700 | 16 | 5.10.2023 |
-| Discord Bot | 450 | 8 | 5.10.2023 |
+| MV-Lib | 2 850 | 44 | 1.1.2024 |
+| MV-Velocity | 600 | 11 | 1.1.2024 |
+| MV-Lobby | 300 | 6 | 1.1.2024 |
+| MV-Essentials | 1 800 | 28 | 1.1.2024 |
+| MV-Survival | 700 | 16 | 1.1.2024 |
+| Discord Bot | 450 | 8 | 1.1.2024 |
 
-Total: 6 700 lines, 113 files (5.10.2023)
+Total: 6 700 lines, 113 files (1.1.2024)
