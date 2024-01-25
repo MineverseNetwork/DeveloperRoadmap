@@ -64,9 +64,9 @@ Bot
 - Ticket system [ 5% ]
 - Integration with MV-Lib's Logger [ 100% ]
 
-# Lines of code
+# Statistics
 
-| Plugin | Lines | Files | Updated |
+| Plugin Name | Lines of Code | Files (.java, .kt) | Stats Updated |
 | ------- | ------- | --------- | ---------------- |
 | MV-Lib | 2 850 | 44 | 1.1.2024 |
 | MV-Velocity | 600 | 11 | 1.1.2024 |
