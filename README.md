@@ -1,78 +1,77 @@
-# Developer Roadmap [ 1.1.2024 ]
-This is where you can see what are we currently working on and what is done so far.
+# Developer Roadmap [ 1.2.2024 ]
+Zde můžete vidět, na čem aktuálně pracuje náš Technický Tým, a co je už hotové.
 
 ## Minecraft
 
-### Current Status:
+### Aktuální Status:
 
-Migrating all the plugins to Kotlin. Huge refactoring of MV-Lib to make a more flexible and maintenable core. Switching from Waterfall to Velocity.
+*Právě probíhá přepisování všech pluginů z Javy do Kotlinu. Během tohoto procesu také probíhá velké množství změn v pluginu MV-Lib (přejmenováno na MineCore) pro dosažení vyšší stability, flexibility a udržitelnosti. Dále probíhá přechod z Waterfallu na Velocity.*
 
-MV-Lib
-- Web API wrapper & utils [ 100% ]
-- Redis manager & channels [ 100% ]
-- Player wrapper & manager [ 100% ]
-- Basic economy foundation [ 40% ]
-- Better GUI system [ 90% ] 
-- Better Command system [ 100% ]
-- Ranks, Permissions and Prefixes [ 90% ]
-- Better system for server status [ 100% ]
-- Maintenance & Debug mode [ 100% ]
-- Logger & Verbose system [ 100% ]
-- Command blocker [ 100% ]
+MineCore (MV-Lib)
+- Client pro komunikaci s Rest API [ 100% ]
+- Redis systém & komunikační kanály [ 100% ]
+- Systém hráčů a ukládání jejich dat [ 100% ]
+- Systém serverové ekonomiky [ 40% ]
+- Systém pro tvorbu a správu GUI [ 90% ] 
+- Systém pro tvorbu a správu příkazů [ 100% ]
+- Systém ranků, permisí a prefixů [ 90% ]
+- Systém pro status serverů [ 100% ]
+- Režim údržby a testování [ 100% ]
+- Logger a Verbose systém [ 100% ]
 
 MV-Velocity
-- Basic utilities [ 85% ]
-- Lobby system & Player balancing [ 100% ]
+- Lobby systém [ 100% ]
+- Balancování hráčů [ 100% ]
 - StaffChat [ 100% ]
 - MOTD [ 100% ]
 
 MV-Lobby
-- World protection [ 100% ]
-- Servers selector [ 100% ]
-- Armor stands [ 0% ]
+- Ochrana mapy [ 100% ]
+- Výběr serverů [ 100% ]
+- Armor standy [ 0% ]
+- Parkour (checkpointy, žebříčky) [ 0% ]
 
 MV-Essentials
-- Number of commands: 19
+- Počet příkazů: 19
 
-MV-Survival - rewrite soon
-- Custom items [ 20% ]
-- Custom abbilities [ 15% ]
+MV-Survival - Brzy rewrite
+- Vlastní itemy [ 20% ]
+- Speciální schopnosti [ 15% ]
 
 ## Web
 
-API
-- All the currently needed functionality is fully implemented, more when needed.
+Rest API
+- Veškeré potřebné funkce jsou plně implementovány. Více v případě potřeby.
 
 Panel
-- Auth system [ 100% ]
-- User management [ 80% ]
-- Servers overview [ 95% ]
+- Systém přihlašování [ 100% ]
+- Správa uživatelů [ 80% ]
+- Správa serverů [ 20% ]
 
-Main Webiste
-- Index page [ 10% ]
+Hlavní Web
+- Úvodní stránka [ 10% ]
 
 
 ## Discord
 
 Bot
-- Basic utilities [ 10% ]
-- Web API wrapper & utils [ 100% ]
-- Redis manager & channels [ 100% ]
-- Server status [ 100% ]
-- StaffChat sync with mc [ 100% ]
-- Verify & account sync [ 15% ]
-- Ticket system [ 5% ]
-- Integration with MV-Lib's Logger [ 100% ]
+- Client pro komunikaci s Rest API [ 100% ]
+- Redis systém & komunikační kanály [ 100% ]
+- Status serveru [ 100% ]
+- StaffChat synchronizován s Minecraft servery [ 100% ]
+- Ověření a synchronizace účtů [ 15% ]
+- Ticket systém [ 5% ]
+- Integrace s Loggerem z MineCoru [ 100% ]
 
-# Statistics
+# Statistiky
 
-| Plugin Name | Lines of Code | Files (.java, .kt) | Stats Updated |
+| Plugin | Řádků kódu | Souborů (.java, .kt) | Ke dni |
 | ------- | ------- | --------- | ---------------- |
-| MV-Lib | 2 850 | 44 | 1.1.2024 |
-| MV-Velocity | 600 | 11 | 1.1.2024 |
-| MV-Lobby | 300 | 6 | 1.1.2024 |
-| MV-Essentials | 1 800 | 28 | 1.1.2024 |
-| MV-Survival | 700 | 16 | 1.1.2024 |
-| Discord Bot | 450 | 8 | 1.1.2024 |
+| MV-Lib | 2 850 | 44 | 1.2.2024 |
+| MV-Velocity | 600 | 11 | 1.2.2024 |
+| MV-Lobby | 300 | 6 | 1.2.2024 |
+| MV-Essentials | 1 800 | 28 | 1.2.2024 |
+| MV-Survival | 700 | 16 | 1.2.2024 |
+| Discord Bot | 450 | 8 | 1.2.2024 |
 
-Total: 6 700 lines, 113 files (1.1.2024)
+Celkem: **6 700** řádků kódu a **113** souborů (1.2.2024)
