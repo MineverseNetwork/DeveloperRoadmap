@@ -79,6 +79,9 @@ Celkem: **6 700** řádků kódu a **113** souborů (1.2.2024)
 ### Ostatní statistiky
 
 Interních Dokumentů: 39 (Mimo vzorové dokumenty)
+
 Grafických Souborů: 12 (Loga, Bannery, Ikony - Mimo ResourcePackovou grafiku)
+
 Hostovaných Služeb: 22
+
 Lidí v týmu: 2
