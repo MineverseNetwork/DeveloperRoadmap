@@ -1,4 +1,4 @@
-# Developer Roadmap [ 1.2.2024 ]
+# Developer Roadmap [ 20.4.2024 ]
 Zde můžete vidět, na čem aktuálně pracuje náš Technický Tým, a co je už hotové.
 
 ## Minecraft
@@ -67,21 +67,21 @@ Bot
 
 | Plugin | Řádků kódu | Souborů (.java, .kt) | Ke dni |
 | ------- | ------- | --------- | ---------------- |
-| MV-Lib | 2 850 | 44 | 1.2.2024 |
-| MV-Velocity | 600 | 11 | 1.2.2024 |
-| MV-Lobby | 300 | 6 | 1.2.2024 |
-| MV-Essentials | 1 800 | 28 | 1.2.2024 |
-| MV-Survival | 700 | 16 | 1.2.2024 |
-| Discord Bot | 450 | 8 | 1.2.2024 |
+| MV-Lib | 2 850 | 44 | 20.4.2024 |
+| MV-Velocity | 600 | 11 | 20.4.2024 |
+| MV-Lobby | 300 | 6 | 20.4.2024 |
+| MV-Essentials | 1 800 | 28 | 20.4.2024 |
+| MV-Survival | 700 | 16 | 20.4.2024 |
+| Discord Bot | 450 | 8 | 20.4.2024 |
 
-Celkem: **6 700** řádků kódu a **113** souborů (1.2.2024)
+Celkem: **6 700** řádků kódu a **113** souborů (20.4.2024)
 
 ### Ostatní statistiky
 
-Interních Dokumentů: 39 (Mimo vzorové dokumenty)
+Interních Dokumentů: 41 (Mimo vzorové dokumenty)
 
 Grafických Souborů: 12 (Loga, Bannery, Ikony - Mimo ResourcePackovou grafiku)
 
 Hostovaných Služeb: 22
 
-Lidí v týmu: 2
+Lidí v týmu: 3
