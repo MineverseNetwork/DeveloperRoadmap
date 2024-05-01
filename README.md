@@ -1,4 +1,4 @@
-# Developer Roadmap [ 20.4.2024 ]
+# Developer Roadmap [ 1.5.2024 ]
 Zde můžete vidět, na čem aktuálně pracuje náš Technický Tým, a co je už hotové.
 
 ## Minecraft
@@ -7,7 +7,7 @@ Zde můžete vidět, na čem aktuálně pracuje náš Technický Tým, a co je u
 
 *Právě probíhá přepisování všech pluginů z Javy do Kotlinu. Během tohoto procesu také probíhá velké množství změn v pluginu MV-Lib (přejmenováno na MineCore) pro dosažení vyšší stability, flexibility a udržitelnosti. Dále probíhá přechod z Waterfallu na Velocity.*
 
-MineCore (MV-Lib)
+**MineCore** (MV-Lib)
 - Client pro komunikaci s Rest API [ 100% ]
 - Redis systém & komunikační kanály [ 100% ]
 - Systém hráčů a ukládání jejich dat [ 100% ]
@@ -19,42 +19,42 @@ MineCore (MV-Lib)
 - Režim údržby a testování [ 100% ]
 - Logger a Verbose systém [ 100% ]
 
-MV-Velocity
+**MV-Velocity**
 - Lobby systém [ 100% ]
 - Balancování hráčů [ 100% ]
 - StaffChat [ 100% ]
 - MOTD [ 100% ]
 
-MV-Lobby
+**MV-Lobby**
 - Ochrana mapy [ 100% ]
 - Výběr serverů [ 100% ]
 - Armor standy [ 0% ]
 - Parkour (checkpointy, žebříčky) [ 0% ]
 
-MV-Essentials
+**MV-Essentials**
 - Počet příkazů: 19
 
-MV-Survival - Brzy rewrite
+**MV-Survival** - *Brzy rewrite*
 - Vlastní itemy [ 20% ]
 - Speciální schopnosti [ 15% ]
 
 ## Web
 
-Rest API
+**Rest API**
 - Veškeré potřebné funkce jsou plně implementovány. Více v případě potřeby.
 
-Panel
+**Panel**
 - Systém přihlašování [ 100% ]
 - Správa uživatelů [ 80% ]
 - Správa serverů [ 20% ]
 
-Hlavní Web
+**Hlavní Web**
 - Úvodní stránka [ 10% ]
 
 
 ## Discord
 
-Bot
+**Bot**
 - Client pro komunikaci s Rest API [ 100% ]
 - Redis systém & komunikační kanály [ 100% ]
 - Status serveru [ 100% ]
@@ -67,21 +67,21 @@ Bot
 
 | Plugin | Řádků kódu | Souborů (.java, .kt) | Ke dni |
 | ------- | ------- | --------- | ---------------- |
-| MV-Lib | 2 850 | 44 | 20.4.2024 |
-| MV-Velocity | 600 | 11 | 20.4.2024 |
-| MV-Lobby | 300 | 6 | 20.4.2024 |
-| MV-Essentials | 1 800 | 28 | 20.4.2024 |
-| MV-Survival | 700 | 16 | 20.4.2024 |
-| Discord Bot | 450 | 8 | 20.4.2024 |
+| MV-Lib | 2 850 | 44 | 1.5.2024 |
+| MV-Velocity | 600 | 11 | 1.5.2024 |
+| MV-Lobby | 300 | 6 | 1.5.2024 |
+| MV-Essentials | 1 800 | 28 | 1.5.2024 |
+| MV-Survival | 700 | 16 | 1.5.2024 |
+| Discord Bot | 450 | 8 | 1.5.2024 |
 
-Celkem: **6 700** řádků kódu a **113** souborů (20.4.2024)
+Celkem: **6 700** řádků kódu a **113** souborů (1.5.2024)
 
 ### Ostatní statistiky
 
-Interních Dokumentů: 41 (Mimo vzorové dokumenty)
+Interních Dokumentů: 47 (Mimo vzorové dokumenty)
 
-Grafických Souborů: 12 (Loga, Bannery, Ikony - Mimo ResourcePackovou grafiku)
+Grafických Souborů: 13 (Loga, Bannery, Ikony - Mimo ResourcePackovou grafiku)
 
-Hostovaných Služeb: 22
+Hostovaných Služeb: 24
 
 Lidí v týmu: 3
